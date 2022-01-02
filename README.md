@@ -1,4 +1,4 @@
-## X-URL-Uploader (Bot)
+## MW-URL-Uploader Bot
 ---
 
 Telegram RoBot to Upload Links.
@@ -16,6 +16,15 @@ Telegram RoBot to Upload Links.
 **For Devs**:
 
 👉 [X-URL-Uploader-dev](https://github.com/X-Gorn/X-URL-Uploader/tree/dev)
+<
+details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/TG-Url-Uploader-Bot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 ## Telegram Support:
 
