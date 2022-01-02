@@ -11,3 +11,4 @@ olefile
 lk21
 filetype
 tldextract
+git+https://github.com/subinps/pyrogram@inline-m
